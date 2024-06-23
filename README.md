@@ -5,7 +5,7 @@ A repository dedicated to various implementations of Large Language Models (LLM)
 ## Contents
 
 - **RAG_LLaMA3.ipynb**: An implementation of RAG using LLaMA3 and LangChain. This notebook demonstrates how to create a RAG database using these technologies.
-  [![Colab](https://img.shields.io/badge/Colab-RAG_LLaMA3-orange)](https://colab.research.google.com/github/yourusername/LLM/blob/main/jupyternotebook/RAG_LLaMA3.ipynb)
+  [![Colab](https://img.shields.io/badge/Colab-RAG_LLaMA3-orange)](https://colab.research.google.com/github/brritany/LLM/blob/main/jupyternotebook/RAG_LLaMA3.ipynb)
 
 ## Version Information
 
